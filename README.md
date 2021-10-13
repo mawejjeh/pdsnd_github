@@ -12,6 +12,7 @@ The cities include washington, new york and chicago
 
 ### Files used
 .csv files
+chicago.csv,new_york_city.csv and washington.csv 
 
 ### Credits
 https://www.motivateco.com/
