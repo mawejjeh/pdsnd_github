@@ -4,10 +4,10 @@
 08/09/2021
 
 ### Project Title
-Replace the Project Title
+Bike-share-project
 
 ### Description
-Describe what your project is about and what it does
+Analysing Data generated from bike-sharing within three cities of USA 
 
 ### Files used
 Include the files used
