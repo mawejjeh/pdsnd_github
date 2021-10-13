@@ -131,6 +131,16 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+def user_stats_gender(df):
+    """Displays statistics on bikeshare users_gender ."""
+
+    print('\nCalculating User Stats by users_gender...\n')
+    start_time = time.time()
+
+    # Display counts of user types
+
+
+    # Display earliest, most recent, and most common year of birth
 
 
 if user_name__ == "__main_name __":
