@@ -8,6 +8,7 @@ Bike-share-project
 
 ### Description
 Analysing Data generated from bike-sharing within three cities of USA
+The cities include washington, new york and chicago
 
 ### Files used
 .csv files
