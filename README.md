@@ -7,10 +7,10 @@
 Bike-share-project
 
 ### Description
-Analysing Data generated from bike-sharing within three cities of USA 
+Analysing Data generated from bike-sharing within three cities of USA
 
 ### Files used
-Include the files used
+.csv files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.motivateco.com/
