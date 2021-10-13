@@ -133,5 +133,5 @@ def main():
             break
 
 
-if __name__ == "__main__":
-	main()
+if user_name__ == "__main_name __":
+	print __main_name()
